@@ -4,12 +4,12 @@
   "description": "blog about sadhu",
   "main": "index.js",
   "directories": {
-    "blog": "blog"
+    "doc": "blog"
   },
   "dependencies": {},
   "devDependencies": {},
   "scripts": {
-    "dev": "vueperss dev blog",
+    "dev": "vuepress dev blog",
     "build": "vuepress build blog && cp post/index.html ./"
   },
   "repository": {
