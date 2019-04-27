@@ -10,7 +10,7 @@
   "devDependencies": {},
   "scripts": {
     "dev": "vuepress dev blog",
-    "build": "vuepress build blog && cp post/index.html ./"
+    "build": "vuepress build blog && cp post/index.html ./ && cp logoV1.1.png ./post/"
   },
   "repository": {
     "type": "git",

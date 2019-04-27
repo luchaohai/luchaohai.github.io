@@ -1,18 +1,3 @@
----
-home: true
-heroImage: /logoV1.1.png
-actionText: 快速上手 →
-actionLink: /zh/guide/
-features:
-- title: 简洁至上
-  details: 以 Markdown 为中心的项目结构，以最少的配置帮助你专注于写作。
-- title: Vue驱动
-  details: 享受 Vue + webpack 的开发体验，在 Markdown 中使用 Vue 组件，同时可以使用 Vue 来开发自定义主题。
-- title: 高性能
-  details: VuePress 为每个页面预渲染生成静态的 HTML，同时在页面被加载的时候，将作为 SPA 运行。
-footer: MIT Licensed | Copyright © 2018-present Evan You
----
-
 ### 开发使用博客的问题集锦
 
 1. git pages有哪些可配置的东西？
@@ -24,6 +9,20 @@ footer: MIT Licensed | Copyright © 2018-present Evan You
   1. 生成的目标文件路径改到根目录下面（并对于资源的关联使用绝对路径）
   2. 把index.html文件直接拉到根目录下面
 
-
 发现其实youtube关于技术的资源还是很丰富的～ 以及bilibili很多地方的视频。
 所以其实还是选择多接触一下社交媒体，增加信息的获取。
+
+> 主题貌似目前还没啥用，不过可以先配置一些侧边栏菜单
+
+
+你觉得博客是什么？
+1. 一张介绍自己的明信片【在求职的过程中，使自己增值】
+2. 用于沉淀自己知识的地方，说明自己想法的地方
+
+如何推广自己的博客？
+1. 在一些社区网站，把自己的写好的博客发布上去，并附上自己的博客原地址
+
+在写博客的时候，可以尽量多参考其他的博客，这样也算是一种整理和总结
+
+心要沉下来，静下来！
+真正开心的时刻：理解和学习了新的东西并随之诞生了各种新的想法
