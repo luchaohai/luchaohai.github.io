@@ -26,3 +26,52 @@
 
 心要沉下来，静下来！
 真正开心的时刻：理解和学习了新的东西并随之诞生了各种新的想法
+
+
+泰国🇹🇭妙蛙种子以及它的影子
+message？？？
+【清迈】—— 北部城市，避暑胜地
+
+Never put off until tomorrow what may be done today. 今日事今日毕。
+
+
+希腊🇬🇷月牙弯，富士山
+message？？？
+
+One minute on the stage needs ten years practive off stage. 台上一分钟，台下十年功。
+
+The longest journey begins with the first step. 千里之行，始于足下。
+
+
+巴西🇧🇷仰天长啸的哥斯拉
+message？
+
+Great hope makes great man. 伟大的思想造就伟大的人。
+
+
+日本🇯🇵一条尖角的双头蛇
+【东京】日本首都
+
+Well begun is half done. 好的开端是成功的一半。
+
+
+加拿大🇨🇦一只侧身喷火的恐龙
+message？
+
+Lost time is never found again. 光阴一去不复返。
+
+
+《罗马假日》
+《上帝是巴西人》
+
+
+希望把所有的东西都吸收了？？？
+内心还真是一个黑洞呀！！！ 所以会疯狂！！！
+
+权重法则！！！
+内心要知道事情的比重！！！
+
+April Fool's Day: 愚人节
+
+Giving is reward in itself. 给予本身就是一个奖赏。
+
