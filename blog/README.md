@@ -56,14 +56,27 @@ Well begun is half done. 好的开端是成功的一半。
 
 
 加拿大🇨🇦一只侧身喷火的恐龙
-message？
+【温哥华】加拿大西部中心
 
 Lost time is never found again. 光阴一去不复返。
 
 
+意大利🇮🇹一支长靴
+message？
+
+Many a little makes a mickle. 积少成多。
+
+澳大利亚🇦🇺戴着维吾尔族小帽的人头像，似乎在咆哮什么
+message？
+
+Australia's a big country. 澳大利亚是一个幅员辽阔的国家。
+
 《罗马假日》
 《上帝是巴西人》
-
+《了不起的盖茨比》
+《教父》系列
+复仇者联盟系列——漫威宇宙
+正义联盟系列——DC宇宙
 
 希望把所有的东西都吸收了？？？
 内心还真是一个黑洞呀！！！ 所以会疯狂！！！

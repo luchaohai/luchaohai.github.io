@@ -4,7 +4,7 @@ module.exports = {
   // ***基本配置***
   base: `/${basePath}/`,
   title: '苦行僧的博客',
-  description: '自律，自强',
+  description: '自信，自律，自强',
   // HTML <head>标签，做iconfont之类的嵌入
   head: [],
   // host
