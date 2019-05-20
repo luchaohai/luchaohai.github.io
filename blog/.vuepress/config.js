@@ -36,12 +36,19 @@ module.exports = {
         text: '随笔',
         items: [
           { text: '2019', link: '/note/1.md'}
+          { text: '2019', link: '/note/1.md'}
         ]
       },
       {
         text: '资源',
         items: [
           { text: '2019', link: '/'}
+        ]
+      },
+      {
+        text: '问题',
+        items: [
+          { text: '2019', link: '/question/2019.md'}
         ]
       },
       // 求职的履历
