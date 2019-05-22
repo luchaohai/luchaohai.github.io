@@ -97,10 +97,27 @@ If you find a path with no obstacles, it probably doesn't lead anywhere. 太容�
 
 Our destiny offers not the cup of despair, but the chalice of opportunity. 命运给予我们的不是失望之酒，而是机会之杯。
 
+Books are the mirrors of the soul. 书是灵魂的镜子。
+
+In me the tiger sniffs the rose. 心有猛虎，细嗅蔷薇。
+
+德国🇩🇪
+
+Practice makes perfect. 熟能生巧。
+
 美国🇺🇸狼
-message?
+【洛杉矶】好莱坞电影
 
 Pride hurts, modesty benefits. 满招损，谦受益。
+
+法国🇫🇷
+【巴黎】埃菲尔铁塔，凯旋门，巴黎圣母院
+
+Rome was not built in a day. 伟业非一日之功。
+
+印度🇮🇳
+
+More haste, less speed. 欲速则不达。
 
 《罗马假日》
 《上帝是巴西人》
