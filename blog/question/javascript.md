@@ -99,3 +99,28 @@ Q19. parseInt(1000000000000000000000.5) ，结果返回什么？
 Q20. String(0x11), 输出是什么？
 
 `"17",因为优先是对这个格式进行十进制处理，或者科学计数法处理`
+
+Q21. console.log('你好，世界'.length)，输入什么？
+
+`5, 大部分中文字符已经纳入一个字符，但是依旧存在一些字符在浏览器上是一个字符，而javascript存储为2个字符`
+
+Q22. Base64转码的两个原生方法？
+
+`btoa, atob:前者转为Base64编码，后者反编译回去。`
+
+Q23. 对于非 ASCII 码字符转 Base64 编码，如何处理？
+
+``` javascript
+function b64Encode(str) {
+  return btoa(encodeURIComponent(str));
+}
+
+function b64Decode(str) {
+  return decodeURIComponent(atob(str));
+}
+
+b64Encode('你好') // "JUU0JUJEJUEwJUU1JUE1JUJE"
+b64Decode('JUU0JUJEJUEwJUU1JUE1JUJE') // "你好"
+```
+
+Q24. { foo: 123 }, 这是表达式还是语句？
