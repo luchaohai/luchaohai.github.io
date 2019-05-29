@@ -33,16 +33,10 @@ module.exports = {
       },
       // 随笔以时间纬度，一个主题发散
       {
-        text: '随笔',
+        text: '分类',
         items: [
-          { text: '2019', link: '/note/1.md'},
-          { text: '2019', link: '/note/1.md'}
-        ]
-      },
-      {
-        text: '资源',
-        items: [
-          { text: '2019', link: '/'}
+          { text: '健身', link: '/note/1.md'},
+          { text: '工具', link: '/note/2.md'}
         ]
       },
       {
