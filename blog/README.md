@@ -83,6 +83,8 @@ Knowledge is a treasure, but practise is the key to it. 知识是珍宝，而实
 
 Great things come from small beginnings. 伟大始于渺小。
 
+From small beginnings come great things. 伟大始于渺小。
+
 英国🇬🇧蹲着呼啸的狼
 【伦敦】诞生于公元50年——
   1666年一场大火
@@ -103,9 +105,15 @@ Books are the mirrors of the soul. 书是灵魂的镜子。
 
 In me the tiger sniffs the rose. 心有猛虎，细嗅蔷薇。
 
+Never say die. 永不气馁！
+
+I never look back. It distracts from the now. 我从来不回头看看， 因为那样会让我对现在分心。
+
 德国🇩🇪
 
 Practice makes perfect. 熟能生巧。
+
+Rejoicing in hope, patienting in tribulation. 从希望中得到快乐，在磨难中保持坚韧。
 
 美国🇺🇸狼
 【洛杉矶】好莱坞电影
